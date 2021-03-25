@@ -14,6 +14,7 @@
       name="viewport"
       content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui"
     />
+    <!-- Open Graph protocol -->
     <meta property="og:title" content="Uthman Igbin - web developer." />
     <meta property="og:url" content="http://www.uthman.netlify.com" />
     <meta property="og:image" content="images/facebook_image.png" />
@@ -22,6 +23,18 @@
       property="og:description"
       content="I'm an experienced web developer living in Estonia. Currently learning tricks as a Freelancer/Student."
     />
+
+    <!-- Twitter Open Graph protocol -->
+    <meta property="twitter:title" content="Uthman Igbin - web developer." />
+    <meta property="twitter:url" content="http://www.uthman.netlify.com" />
+    <meta property="twitter:image" content="images/facebook_image.png" />
+    <meta property="twitter:site_name" content="Uthman Igbin - web developer." />
+    <meta
+      property="twitter:description"
+      content="I'm an experienced web developer living in Estonia. Currently learning tricks as a Freelancer/Student."
+    />
+
+    <!-- Google Fonts -->
     <link
       href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;900&display=swap"
       rel="stylesheet"
@@ -30,6 +43,7 @@
 
   <body>
     <div id="root"></div>
+    <!-- Incase server doesn't load -->
     <div class="visually-hidden">
       <p>My name is Uthman Igbin. I'm a self-taught web developer.</p>
       <p>I've been a freelancer and an entrepreneur.</p>
@@ -46,19 +60,16 @@
         >My LinkedIn Profile</a
       >
     </div>
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=UA-265680-29"
-    ></script>
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CKNJZ33831"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-      gtag("config", "UA-265680-29");
+      gtag('config', 'G-CKNJZ33831');
     </script>
+    
   </body>
 </html>
