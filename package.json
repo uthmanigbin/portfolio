@@ -4,9 +4,9 @@
   "license": "CC-BY-NC-ND-4.0",
   "homepage": "https://github.com/albinotonnina/albinotonnina.com",
   "author": {
-    "name": "Albino Tonnina",
-    "email": "albinotonnina@gmail.com",
-    "url": "http://www.albinotonnina.com"
+    "name": "Uthman Igbin",
+    "email": "uthmanigbin@gmail.com",
+    "url": "http://www.uthman.netlify.com"
   },
   "scripts": {
     "dev": "webpack-dev-server --mode development",
