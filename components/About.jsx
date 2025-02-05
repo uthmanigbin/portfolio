@@ -54,10 +54,11 @@ const About = ({isDarkMode}) => {
           className="flex-1"
         >
           <p className="mb-10 max-w-2xl font-Ovo">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. At, quas
-            facilis! Nisi laborum ipsa officia, minima vero suscipit ducimus
-            ullam sapiente omnis sequi fugit, quaerat excepturi qui obcaecati
-            atque esse.
+            I'm a passionate freelancer from Riga, Latvia, bringing
+            you programming and design from the future. My expertise is
+            developing next-level websites and web applications. The web can
+            sometimes be indistinguishable from magic, but I have the knowledge
+            and patience required to make even the wildest dreams a reality.
           </p>
 
           <motion.ul
