@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Uthman - Full Stack Web Developer & Freelancer
 
-## Getting Started
+Welcome to my portfolio! 👋 I'm **Uthman**, a passionate and skilled Full Stack Web Developer with extensive experience in both front-end and back-end development. I specialize in creating dynamic, responsive, and scalable web applications. As a freelancer, I help businesses and individuals bring their ideas to life with code. 🚀
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 👨‍💻 About Me
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+I'm a highly motivated developer with expertise in a wide range of technologies and frameworks. I love building projects that solve real-world problems, improve user experience, and drive growth. Whether it's building custom web apps, designing interactive websites, or optimizing performance, I have the skills to tackle it all.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- 🔧 **Tech Stack**:
+  - Frontend: React, Next.js, TailwindCSS, JavaScript
+  - Backend: Node.js, Express, Python, Django
+  - Database: MongoDB, PostgreSQL, MySQL
+  - Version Control: Git, GitHub, GitLab
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🌱 **Currently learning**: React Native, TypeScript, GraphQL
 
-## Learn More
+- ⚡ **Hobbies**: Coding, playing chess, cyber security, watching tech blogs
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Projects
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### [Portfolio Website](https://uthman.netlify.com)
+A responsive and interactive website showcasing my skills, experience, and past projects.
 
-## Deploy on Vercel
+### [SortaWho](https://www.sortawho.com/)
+SortaWho is a comprehensive platform for branding, web design, merch development, and customer service management, built to support content creators. It provides tools to design custom merchandise, develop branded websites, and streamline operations, all under one roof.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### [ColorLoud](https://chromewebstore.google.com/detail/colorloud/biahcgllkcfmedlokafgefjlcdikagjl)
+ColorLoud is a browser extension designed to help colorblind individuals differentiate between colors more effectively. Built with JavaScript and the WebExtensions API to ensure seamless compatibility across Chrome, Firefox, and Safari. The extension scans websites in real-time, identifying colors that users commonly struggle to distinguish, and dynamically adjusts them to more distinguishable hues without altering the overall design integrity.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### [SanixPro](https://sanixpro.netlify.app)
+SanixPro is a website for a latvian plumbing buisness.
+
+---
+
+## 💼 Freelance Services
+
+I offer various web development services tailored to meet your business needs. Whether you're a startup or an established business, I can help you:
+
+- 🌍 Build responsive, user-friendly websites
+- 🛠️ Develop custom web applications
+- 📈 Optimize and maintain existing projects
+- 💡 Implement real-time features (chat, notifications, etc.)
+- 🚀 Deploy apps to the cloud (AWS, Heroku, etc.)
+
+Feel free to [contact me](mailto:uthmanigbin@gmail.com) for freelance opportunities!
+
+---
+
+## 📞 Contact
+
+- 📧 Email: [uthmanigbin@gmail.com](mailto:uthmanigbin@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/uthman-igbin-931a71114/](https://www.linkedin.com/in/uthman-igbin-931a71114/)
+- 💼 Twitter: [https://x.com/ItsMrUthman](https://x.com/ItsMrUthman)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Thank you for visiting my portfolio! Let's build something great together! 💻✨
