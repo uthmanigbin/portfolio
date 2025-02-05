@@ -77,27 +77,27 @@ export const assets = {
 };
 
 export const workData = [
-    {
-        title: 'Frontend project',
-        description: 'Web Design',
-        bgImage: '/work-1.png',
-    },
-    {
-        title: 'Geo based app',
-        description: 'Mobile App',
-        bgImage: '/work-2.png',
-    },
-    {
-        title: 'Photography site',
-        description: 'Web Design',
-        bgImage: '/work-3.png',
-    },
-    {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
-        bgImage: '/work-4.png',
-    },
-]
+  {
+    title: "SortaWho",
+    description:
+      "SortaWho is a platform for content creators to design merchandise, build websites, and manage customer service.",
+    bgImage: "/work-1.png",
+    link: "https://www.sortawho.com/",
+  },
+  {
+    title: "ColorLoud",
+    description:
+      "ColorLoud is a browser extension that helps colorblind individuals differentiate between colors more effectively across browsers.",
+    bgImage: "/work-2.png",
+    link: "https://colorloud.netlify.app/",
+  },
+  {
+    title: "SanixPro",
+    description: "SanixPro is a website for a latvian plumbing buisness.",
+    bgImage: "/work-3.png",
+    link: "https://sanixpro.netlify.app/",
+  },
+];
 
 export const serviceData = [
     { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: '' },
