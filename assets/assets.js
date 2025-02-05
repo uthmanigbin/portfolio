@@ -81,20 +81,20 @@ export const workData = [
     title: "SortaWho",
     description:
       "SortaWho is a platform for content creators to design merchandise, build websites, and manage customer service.",
-    bgImage: "/work-1.png",
+    bgImage: "/sortawho.png",
     link: "https://www.sortawho.com/",
   },
   {
     title: "ColorLoud",
     description:
       "ColorLoud is a browser extension that helps colorblind individuals differentiate between colors more effectively across browsers.",
-    bgImage: "/work-2.png",
+    bgImage: "/colorloud.png",
     link: "https://colorloud.netlify.app/",
   },
   {
     title: "SanixPro",
     description: "SanixPro is a website for a latvian plumbing buisness.",
-    bgImage: "/work-3.png",
+    bgImage: "/sanix.png",
     link: "https://sanixpro.netlify.app/",
   },
 ];
