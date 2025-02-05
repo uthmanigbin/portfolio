@@ -35,7 +35,7 @@ const Header = () => {
       >
         Full stack web developer based in Riga.
       </motion.h1>
-      <motion.p
+      {/* <motion.p
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.6, delay: 0.7 }}
@@ -45,7 +45,7 @@ const Header = () => {
         quis cumque omnis aliquid earum, deserunt fugiat ullam ea quaerat
         quibusdam laudantium voluptatem iste? Optio doloremque natus eos nisi
         animi?
-      </motion.p>
+      </motion.p> */}
 
       <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
         <motion.a
