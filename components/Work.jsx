@@ -59,8 +59,8 @@ const Work = (isDarkMode) => {
               key={index}
               style={{ backgroundImage: `url(${project.bgImage})` }}
             >
-              <div className="absolute inset-0 bg-black opacity-50 rounded-lg dark:opacity-20"></div>
-              <div className="bg-white w-10/12 rounded-md absolute bottom-5 left-1/2 -translate-x-1/2 py-3 px-5 flex items-center justify-between duration-500 group-hover:bottom-7">
+              <div className="absolute inset-0 bg-black opacity-20 rounded-lg dark:opacity-20"></div>
+              <div className="bg-white w-10/12 rounded-md absolute bottom-5 shadow-sm shadow-slate-600 left-1/2 -translate-x-1/2 py-3 px-5 flex items-center justify-between duration-500 group-hover:bottom-7">
                 <div>
                   <h2 className="font-semibold">{project.title}</h2>
                   <p className="text-sm text-gray-700">{project.description}</p>

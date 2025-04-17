@@ -85,11 +85,11 @@ export const workData = [
     link: "https://www.sortawho.com/",
   },
   {
-    title: "ColorLoud",
+    title: "TheHustle",
     description:
-      "ColorLoud is a browser extension that helps colorblind individuals differentiate between colors more effectively across browsers.",
-    bgImage: "/colorloud.png",
-    link: "https://colorloud.netlify.app/",
+      "The Hustle is the ultimate high-performance program for visionaries. It is not just a startup accelerator but a vision maker for those who dare to dream.",
+    bgImage: "/thehustle.svg",
+    link: "https://thehustlers.netlify.app/",
   },
   {
     title: "SanixPro",
