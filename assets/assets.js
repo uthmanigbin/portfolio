@@ -82,7 +82,7 @@ export const workData = [
     description:
       "SortaWho is a platform for content creators to design merchandise, build websites, and manage customer service.",
     bgImage: "/sortawho.png",
-    link: "https://www.sortawho.com/",
+    link: "https://sortawho.vercel.app/",
   },
   {
     title: "TheHustle",
@@ -90,6 +90,13 @@ export const workData = [
       "The Hustle is the ultimate high-performance program for visionaries. It is not just a startup accelerator but a vision maker for those who dare to dream.",
     bgImage: "/thehustle.svg",
     link: "https://thehustlers.netlify.app/",
+  },
+  {
+    title: "ColorLoud",
+    description:
+      "ColorLoud is a browser extension that helps colorblind individuals differentiate between colors more effectively across browsers.",
+    bgImage: "/colorloud.png",
+    link: "https://chromewebstore.google.com/detail/colorloud/biahcgllkcfmedlokafgefjlcdikagjl",
   },
   {
     title: "SanixPro",
